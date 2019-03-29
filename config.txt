@@ -1,0 +1,6 @@
+owner=480114808444682271
+prefix=3
+game=Itz | 3play
+stayinchannel=true
+songinstatus=false
+token=NTYxMTY5ODExMzM4NTU5NDg4.D3-l3A.3ia5P6IiG6MLm2UxA0Hbw-N8q0Y
